@@ -1,0 +1,70 @@
+
+@import url(reset.css);
+
+
+
+/*=================================== Стр 1 ============================================*/
+
+* {
+	color: red;
+}
+
+.php {
+	color: black;
+}
+
+.list p { 
+color: rgb(0, 255, 4);
+}
+
+.content__list {
+	color: brown;
+}
+
+span, mark {
+	color: blue;
+}
+
+.content__two h2 {
+	color: blueviolet;
+}
+
+.isolation {
+	color: orange;
+}
+
+.pop {
+	color: rgb(164, 13, 61);
+}
+
+.divide p {
+	color: green;
+}
+
+.tag {
+	color: aqua;
+}
+
+.above {
+	color: blue;
+}
+
+.Second {
+	color: brown;
+}
+
+
+
+
+
+/*=================================== Стр 1 ============================================*/
+
+
+
+.header__list {
+	color: blue;
+}
+
+.footer {
+	color: goldenrod;
+}
