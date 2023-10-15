@@ -1,0 +1,102 @@
+
+/*=================================== Fonts brauser ============================================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Roboto:ital,wght@0,300;0,400;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Poppins:ital,wght@0,200;0,300;1,200;1,400&display=swap');
+
+/*=================================== Fonts folders ============================================*/
+
+/*@import url("fonts.css");*/
+
+/*=================================== обнул. ============================================*/
+
+@import url("reset.css");
+
+/*=================================== Стр 1 ============================================*/
+
+body {
+	font-family: 'Inter', sans-serif;
+	font-size: 18px;
+	color: #7d7d7d;
+}
+
+.international,
+.project {
+	font-size: 24px;
+}
+
+.international {
+	color: blue;
+	font-family: "Aboreto", monospace;
+	font-weight: 600;
+	text-decoration: underline;
+	text-shadow: 5px 5px 5px #cf1411f8;
+	text-transform: uppercase;
+}
+
+.completely {
+	color: black;
+	text-decoration: overline;
+	font-weight: 200;
+}
+
+.proactively {
+	color: aqua;
+	font-weight: 500;
+}
+
+.deliverables {
+	color: rgba(0, 255, 55, 0.39);
+	font-weight: 700;
+}
+
+.project {
+	color: black;
+	text-shadow: 5px 10px 9px #8204f7;
+	font-weight: 450;
+	text-transform: capitalize;
+}
+
+.distinctively {
+	color: #8204f7;
+	text-transform: uppercase;
+}
+
+.printing {
+	color: rgba(28, 6, 49, 0.757);
+	text-transform: capitalize;
+	text-indent: 20px;
+}
+
+.Lorem {
+	color: #fa2121ac;
+	text-transform: capitalize;
+	text-indent: 20px;
+}
+
+.centuries {
+	color: #4621fe;
+	text-transform: none;
+	word-spacing: 10px;
+	text-indent: 20px;
+}
+
+.compellingly {
+	color: rgb(3, 42, 29);
+	text-transform: uppercase;
+	font-weight: 400;
+	text-shadow: 5px 9px 2px #800000;
+}
+
+.embrace {
+	color: #800000;
+	font-weight: 400;
+	line-height: 1.15;
+	letter-spacing: 3.2px;
+}
+
+.consulting {
+	color: #ddff01;
+	font-weight: 750;
+	letter-spacing: 5px;
+}

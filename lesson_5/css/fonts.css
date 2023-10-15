@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "Aboreto";
+	src: 
+	url("../fonts/Aboreto-Regular.woff2") format("woff2"),
+	url("../fonts/Aboreto-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Academia_Libera";
+	src: 
+	url("../fonts/Academia_Libera.woff2") format("woff2"),
+	url("../fonts/Academia_Libera.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Academia_Libera";
+	src: 
+	url("../fonts/Academia_Libera_Italic.woff2") format("woff2"),
+	url("../fonts/Academia_Libera_Italic.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
