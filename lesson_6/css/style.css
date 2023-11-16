@@ -9,121 +9,152 @@
 
 /*=================================== Стр 1 ============================================*/
 
+h1,
+.proactively,
+.our,
+.incubate {
+	font-family: "Poppins", sans-serif;
+}
 
+main {
+	margin-bottom: 35px;
+	font-family: "Inter", sans-serif;
+	color: #7D7D7D;
+}
+
+.block1,
+footer {
+	max-width: 722px;
+	margin: 0 auto;
+	padding: 15px 15px;
+}
 
 .ImageBusiness {
-margin: 1px 0px 20px 456px;
+	margin-bottom: 37px;
 }
 
 h1 {
 	color: #37393F;
-	font-family: Poppins;
 	font-size: 30px;
-	font-style: normal;
 	font-weight: 600;
-	margin: 1px 500px 13px 456px;
+	line-height: 1.27;
+	margin-bottom: 12px;
 }
 
 .Completely {
-	color: #7D7D7D;
-	font-family: Inter;
 	font-size: 18px;
-	font-style: normal;
 	font-weight: 400;
+	line-height: 1.46;
 	margin-bottom: 42px;
-	margin: 1px 500px 42px 456px;
 }
-
 .proactively {
+	margin-bottom: 12px;
 	color: #6B77E5;
-	font-family: Poppins;
 	font-size: 20px;
-	font-style: normal;
 	font-weight: 600;
-	margin: 1px 500px 20px 456px;
+	line-height: 1.27;
 }
-
 .customer{
-	color: #7D7D7D;
-	font-family: Inter;
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 400;
-	margin: 1px 500px 40px 456px;
-
+	line-height: 1.46;
+	margin-bottom: 40px;
 }
 
-.Photo2{
-	display: inline-block;
-	max-width: 330px;
-	vertical-align: top;
-	margin: 1px 29px 100px 456px;
-
+.block {
+	font-size: 0;
+	margin-bottom: 50px;
 }
 
+.Photo2 {
+width: 331px;
+margin-right: 29px;
+
+}
 .conteaner {
-	display: inline-block;
-	margin: auto;
-	max-width: 325px;
-}
+display: inline-block;
+font-size: 18px;
+width: 332px;
 
+}
 .our {
 	color: #37393F;
-	font-family: Poppins;
 	font-size: 25px;
 	font-style: normal;
 	font-weight: 600;
+	line-height: 1.27;
 	margin-bottom: 15px;
 }
-
 .incubate {
 	color: #40DDB6;
-	font-family: Poppins;
 	font-size: 20px;
 	font-style: normal;
 	font-weight: 600;
-	margin-bottom: 23.5px;
+	line-height: 1.27;
+	margin-bottom: 21px;
+	}
 
-}
-
-ul {
-	color: #7D7D7D;
-	font-family: Inter;
+	li {
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 400;
-}
-
-li {
+	line-height: normal;
 	margin-bottom: 30px;
-}
+	}	
 
-
+	.footer {
+		font-size: 0;
+		margin-bottom: 48px;
+	}
+	
+	.consulting {
+		color: #40DDB6;
+		font-family: Poppins;
+		font-size: 50px;
+		font-style: normal;
+		font-weight: 600;
+		width: 200px;
+		margin-right: 29px;
+		display: inline-block;
+	
+		
+	}
+	
+	.consulting1 {
+		color: #40DDB6;
+		font-family: Poppins;
+		font-size: 50px;
+		font-style: normal;
+		font-weight: 600;
+		display: inline-block;
+		width: 201px;
+	}
 
 
 /*=================================== Стр 2 ============================================*/
 
-.jewels {
-	max-width: 1169px;
-	padding: 0 5px;
-	font-size: 0;
-	margin-left: 216px;
+.jewels1{
+	max-width: 1385px;
+	margin: 0 auto;
+	padding: 140px 50px;
+
 }
 
-
 .what {
-	display: inline-block;
-   max-width: 524.5px;
-   margin-right: 38px;
+width: 563px;
+margin-right: 38px;
+display: inline-block;
 }
 
 .we {
 	color: #D06B00;
-font-family: Inter;
-font-size: 28px;
-font-style: normal;
-font-weight: 400;
-margin-bottom: 13px;
+	font-family: Inter;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 13px;
 }
 
 .develop {
@@ -132,8 +163,8 @@ margin-bottom: 13px;
 	font-size: 59px;
 	font-style: normal;
 	font-weight: 400;
+	line-height: 1.46;
 	margin-bottom: 25px;
-	
 }
 
 .variations {
@@ -142,25 +173,16 @@ margin-bottom: 13px;
 	font-size: 20px;
 	font-style: normal;
 	font-weight: 400;
-
+	line-height: 1.80;
+	margin-bottom: 21px;
 }
 
 .rectangle {
-	display: inline-block;
-	vertical-align: top;
-	margin-bottom: 100px;
+display: inline-block;
+vertical-align: top;
 }
 
 .rectangle23 {
-	margin-right: 22px;
+	margin-right: 22px
 }
 
-.consulting {
-	color: #40DDB6;
-	font-family: Poppins;
-	font-size: 50px;
-	font-style: normal;
-	font-weight: 600;
-	padding: 10px 600px;
-	background-color: #0E333D;
-}
