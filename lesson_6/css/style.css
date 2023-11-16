@@ -159,7 +159,7 @@ display: inline-block;
 
 .develop {
 	color: #0E333D;
-	font-family: Serif Text;
+	font-family: "Serif Text" sans-serif;
 	font-size: 59px;
 	font-style: normal;
 	font-weight: 400;
