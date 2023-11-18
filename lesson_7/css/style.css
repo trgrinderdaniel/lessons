@@ -49,7 +49,7 @@ header {
 	padding: 0 15px;
 }
 
-.Information {
+.information {
 	margin: 0 auto 16px;
 	width: 220px;
 }
@@ -68,16 +68,16 @@ h4 {
 	line-height: 1.46;
 	font-weight: 500;
 	display: inline-block;
-	font-family: "Inter" sans-serif;
+	font-family: Inter;
 	font-size: 18px;
 	font-style: normal;
 	line-height: normal;
 }
 
 
-.Licencing {
+.licencing {
 	color: #37393F;
-	font-family: "Poppins" sans-serif;
+	font-family: Poppins;
 	font-size: 60px;
 	font-style: normal;
 	font-weight: 700;
@@ -86,9 +86,9 @@ h4 {
 	text-align: center;
 }
 
-.Icons {
+.icons {
 	color: #37393F;
-font-family: "Poppins" sans-serif;
+font-family: Poppins;
 font-size: 40px;
 font-style: normal;
 font-weight: 700;
@@ -96,41 +96,41 @@ line-height: 1.21;
 margin-bottom: 11px;
 }
 
-.Graphics {
+.graphics {
 	color: #7D7D7D;
-font-family: "Inter" sans-serif;
+font-family: Inter;
 font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 1.46;
 margin-bottom: 32px;
 }
-.Phosphor{
+.phosphor{
 color: #37393F;
-font-family: "Poppins" sans-serif;
+font-family: Poppins;
 font-size: 30px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
 margin-bottom: 100px;
 }
-.License,
+.license,
 .image2 {
 	color: #40DDB6;
 }
 
-.Photography {
+.photography {
 	color: #37393F;
-font-family: "Poppins" sans-serif;
+font-family: Poppins;
 font-size: 40px;
 font-style: normal;
 font-weight: 700;
 line-height: 1.21;
 margin-bottom: 11px;
 }
-.Graphics1 {
+.graphics1 {
 	color: #7D7D7D;
-	font-family: "Inter" sans-serif;
+	font-family: Inter;
 	font-size: 18px;
 	font-style: normal;
 	font-weight: 400;
@@ -138,9 +138,9 @@ margin-bottom: 11px;
 	margin-bottom: 24px;
 }
 
-.Pexels {
+.pexels {
 	color: #37393F;
-font-family: "Poppins" sans-serif;
+font-family: Poppins;
 font-size: 30px;
 font-style: normal;
 font-weight: 700;
@@ -148,7 +148,7 @@ line-height: normal;
 margin-bottom: 8px;
 }
 .image2 {
-	font-family: "Poppins" sans-serif;
+	font-family: Poppins;
 	font-size: 30px;
 	font-style: normal;
 	font-weight: 400;
@@ -164,7 +164,7 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 }
-.Unsplash {
+.unsplash {
 	color: #37393F;
 font-family: Poppins;
 font-size: 30px;
@@ -176,7 +176,7 @@ margin-bottom: 8px;
 .image4 {
 	margin-bottom: 100px;
 }
-.Fonts {
+.fonts {
 	color: #37393F;
 font-family: Poppins;
 font-size: 40px;
@@ -185,7 +185,7 @@ font-weight: 700;
 line-height: 1.21;
 margin-bottom: 11px;
 }
-.WhiteCollar {
+.whitecollar {
 	color: #7D7D7D;
 	font-family: Inter;
 	font-size: 18px;
@@ -307,7 +307,7 @@ line-height: 1.46;
 
 .clothing {
 	color: #3C4242;
-	font-family: Core Sans C;
+	font-family: "Core Sans C";
 	font-size: 28px;
 	font-style: normal;
 	font-weight: 600;
@@ -317,7 +317,7 @@ line-height: 1.46;
 }
 .reexplore {
 	color: #807D7E;
-font-family: Core Sans C;
+font-family: "Core Sans C";
 font-size: 20px;
 font-style: normal;
 font-weight: 600;
@@ -338,7 +338,7 @@ p {
 }
 .more {
 	color: #807D7E;
-	font-family: Core Sans C;
+	font-family: "Core Sans C";
 	font-size: 20px;
 	font-style: normal;
 	font-weight: 600;
@@ -362,7 +362,7 @@ p {
 }
 .create h3 {
 	color: #D58417;
-font-family: Cormorant Infant;
+font-family: "Cormorant Infant";
 font-size: 20px;
 font-style: normal;
 font-weight: 700;
@@ -372,7 +372,7 @@ margin-bottom: 27px;
 .create h2 {
 	width: 583px;
 	color: #000;
-font-family: Cormorant Infant;
+font-family: "Cormorant Infant";
 font-size: 64px;
 font-style: normal;
 font-weight: 700;
@@ -382,7 +382,7 @@ margin-right: 75px;
 }
 .create p {
 	color: #606060;
-font-family: Cormorant Infant;
+font-family: "Cormorant Infant";
 font-size: 30px;
 font-style: normal;
 font-weight: 700;
