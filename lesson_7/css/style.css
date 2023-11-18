@@ -1,0 +1,435 @@
+
+/*=================================== Fonts folders ============================================*/
+
+@import url("fonts.css");
+
+/*=================================== обнул. ============================================*/
+
+@import url("reset.css");
+
+/*=================================== header ============================================*/
+
+
+header {
+	border-bottom: 1px solid #37393F;
+	margin-bottom: 152px;
+}
+
+.header {
+	max-width: 1220px;
+	margin: 0 auto;
+}
+.image {
+	display: inline-block;
+	font-size: 0;
+	max-width: 1221px;
+	margin-right: 195px;
+	vertical-align: middle;
+}
+
+.whitecollar {
+	color: #37393F;
+	font-family: Inter;
+	margin: 0 auto;
+	font-weight: 400;
+	font-size: 18px;
+	font-style: normal;
+	display: inline-block;
+}
+.whitecollar li {
+	display: inline-block;
+	margin: 13px;
+}
+
+/*=================================== main ============================================*/
+
+.block {
+	max-width: 1248px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+
+.Information {
+	margin: 0 auto 16px;
+	width: 220px;
+}
+
+.square {
+	border: 5px solid #40DDB6;
+	width: 12px;
+	height: 12px;
+	display: inline-block;
+
+	
+}
+
+h4 {
+	color: #37393F;
+	line-height: 1.46;
+	font-weight: 500;
+	display: inline-block;
+	font-family: "Inter" sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+}
+
+
+.Licencing {
+	color: #37393F;
+	font-family: "Poppins" sans-serif;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.21;
+	margin-bottom: 70px;
+	text-align: center;
+}
+
+.Icons {
+	color: #37393F;
+font-family: "Poppins" sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.21;
+margin-bottom: 11px;
+}
+
+.Graphics {
+	color: #7D7D7D;
+font-family: "Inter" sans-serif;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.46;
+margin-bottom: 32px;
+}
+.Phosphor{
+color: #37393F;
+font-family: "Poppins" sans-serif;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 100px;
+}
+.License,
+.image2 {
+	color: #40DDB6;
+}
+
+.Photography {
+	color: #37393F;
+font-family: "Poppins" sans-serif;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.21;
+margin-bottom: 11px;
+}
+.Graphics1 {
+	color: #7D7D7D;
+	font-family: "Inter" sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.46;
+	margin-bottom: 24px;
+}
+
+.Pexels {
+	color: #37393F;
+font-family: "Poppins" sans-serif;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 8px;
+}
+.image2 {
+	font-family: "Poppins" sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	}
+.image3 {
+	margin-bottom: 24px;
+}
+.image3,
+.image4 {
+	font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+}
+.Unsplash {
+	color: #37393F;
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 8px;
+}
+.image4 {
+	margin-bottom: 100px;
+}
+.Fonts {
+	color: #37393F;
+font-family: Poppins;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.21;
+margin-bottom: 11px;
+}
+.WhiteCollar {
+	color: #7D7D7D;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.46;
+	margin-bottom: 50px;
+}
+
+
+/*=================================== footer ============================================*/
+
+footer {
+	background-color: #40DDB6;
+	max-width: 1248px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+.consulting {
+	color: black;
+	font-size: 60px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.21;
+	margin-bottom: 70px;
+	text-align: center;
+}
+
+
+/*=================================== Project Information ============================================*/
+
+.distinctively {
+	max-width: 830px;
+	margin: 0 auto;
+}
+.project {
+	color: #37393F;
+	font-family: Poppins;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 1.27;
+	margin-bottom: 13px;
+	}
+	.block1 {
+		color: #7D7D7D;
+	font-family: Inter;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	}
+	.re-engineer {
+		margin-bottom: 34px;
+	}
+	.quickly {
+	margin-bottom: 35px;
+	}
+ul {
+	font-weight: 500;
+	line-height: 1.46;
+}
+.printing {
+	max-width: 431px;
+	margin: 0 0 35px 45px;
+
+}
+.printing li {
+	list-style: disc;
+	margin-bottom: 35px;	
+}
+.embrace
+.embrace1{
+	color: #7D7D7D;
+font-family: "Inter";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 1.46;
+}
+.embrace {
+	margin-bottom: 35px;
+}
+.typesetting {
+	max-width: 441px;
+	margin: 0 0 35px 45px;
+
+
+}
+.typesetting li {
+	list-style: decimal-leading-zero;
+	margin-bottom: 35px;
+}
+
+
+
+
+/*=================================== Create Custom Jewels ============================================*/
+
+.searching {
+	max-width: 1240px;
+	margin: 0 auto;
+}
+.line {
+	max-width: 573px;
+	font-size: 0;
+	margin-bottom: 30px;
+}
+.square1 {
+	width: 6px;
+	height: 28px;
+	flex-shrink: 0;
+	border-radius: 10px;
+	background: #8A33FD;
+	display: inline-block;
+	margin-right: 15px;
+	font-size: 0;
+
+}
+
+.clothing {
+	color: #3C4242;
+	font-family: Core Sans C;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: 600;
+	vertical-align: top;
+	display: inline-block;
+
+}
+.reexplore {
+	color: #807D7E;
+font-family: Core Sans C;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+margin-bottom: 25px;
+}
+
+p {
+	color: #807D7E;
+	font-family: Causten;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 33.5px;
+	margin-bottom: 20px;
+}
+.will {
+	margin-bottom: 25px;
+}
+.more {
+	color: #807D7E;
+	font-family: Core Sans C;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: 33.5px;
+}
+
+
+/*=================================== Women Online ============================================*/
+
+.women1 {
+	max-width: 1114px;
+	font-size: 0;
+	margin: 0 auto;
+}
+.create {
+	max-width: 525px;
+	display: inline-block;
+	margin: 70px 75px 70px 0;
+}
+.create h3 {
+	color: #D58417;
+font-family: Cormorant Infant;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.00;
+margin-bottom: 27px;
+}
+.create h2 {
+	width: 583px;
+	color: #000;
+font-family: Cormorant Infant;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.00;
+margin-bottom: 31px;
+margin-right: 75px;
+}
+.create p {
+	color: #606060;
+font-family: Cormorant Infant;
+font-size: 30px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.40;
+width: 489px;
+height: 174px;
+}
+
+.image5 {
+	max-width: 525px;
+	display: inline-block;
+	vertical-align: top;
+	font-size: 0;
+	
+}
+.block-img1 {
+	display: inline-block;
+	width: 177px;
+	height: 336px;
+   border-radius: 235px;
+   border: 1px solid #502203;
+	margin: 99px 30px 84px 0;
+	}
+.img1 {
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 235px;
+	padding-top: 14px;
+	margin-left: -10px
+
+}
+
+.block-img2 {
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 235px;
+   border: 1px solid #502203;
+
+	margin-left: -15px;
+
+}
+.img2 {
+	width: 307px;
+	height: 500px;
+	display: inline-block;
+	vertical-align: top;
+	margin: 19px 11px 0 0;
+	padding-top: 13px;
+
+}
+
+
