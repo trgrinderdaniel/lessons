@@ -352,6 +352,8 @@ p {
 	max-width: 1114px;
 	font-size: 0;
 	margin: 0 auto;
+	margin-bottom: 50px;
+
 }
 .create {
 	max-width: 525px;
