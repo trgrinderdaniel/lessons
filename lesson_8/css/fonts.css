@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@700&family=Poppins:ital,wght@0,400;0,500;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+
+
+
+@font-face {
+	font-family: "Regular";
+	src:
+	url("https://db.onlinewebfonts.com/t/e695a2b548e145591a266fc50eb492e0.woff2")format("woff2"),
+	url("https://db.onlinewebfonts.com/t/e695a2b548e145591a266fc50eb492e0.woff")format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Bold";
+	src:
+	url("https://db.onlinewebfonts.com/t/353b79b2ea9db02690b55e55fb094e08.woff2")format("woff2"),
+	url("https://db.onlinewebfonts.com/t/353b79b2ea9db02690b55e55fb094e08.woff")format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "CoreSansC-65Bold";
+	src: url("https://db.onlinewebfonts.com/t/4e74d01c3fd12ecda30a2e98799444dd.eot");
+	src: url("https://db.onlinewebfonts.com/t/4e74d01c3fd12ecda30a2e98799444dd.eot?#iefix")format("embedded-opentype"),
+	url("https://db.onlinewebfonts.com/t/4e74d01c3fd12ecda30a2e98799444dd.woff2")format("woff2"),
+	url("https://db.onlinewebfonts.com/t/4e74d01c3fd12ecda30a2e98799444dd.woff")format("woff"),
+
+}
+
+
